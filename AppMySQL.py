@@ -35,7 +35,7 @@ def Formulario():
     global texBoxId, texBoxNombre, texBoxApellido, base, combo, groupBox, tree
 
     try:
-        # Creamos la interfaz ----------
+        # Creamos la interfaz ------------
 
         # Creamos una variable "base" igual a "Tk()", que hace de referencia a la interfaz
         base = Tk()

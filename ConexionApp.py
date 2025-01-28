@@ -15,7 +15,7 @@ class CConexion:
             # Creamos una variable llamada "conexion", le decimos que la conexion es de "mysql.connector.connect(usuario,contraseña,host,base de datos,puerto)"
             conexion = mysql.connector.connect(
                 user="root",
-                password="Romanos831",
+                password="root",
                 host="localhost",
                 database="clientes",
                 port="3306",
